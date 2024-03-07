@@ -12,5 +12,5 @@ $ pip install .
 ```
 
 ``` python
-from the bottom of my heart import love
+from the-bottom-of-my-heart import love
 ```
