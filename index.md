@@ -14,3 +14,6 @@ $ pip install .
 ``` python
 from thebottomofmyheart import love
 ```
+- [ ] Understand what I'm doing
+- [x] Much lost
+- [x] WOW!
